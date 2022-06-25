@@ -19,7 +19,7 @@ $(call inherit-product, device/asus/X00P/device.mk)
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := X00P
 PRODUCT_MANUFACTURER := asus
-PRODUCT_NAME := lineage_X00P
+PRODUCT_NAME := evolution_X00P
 PRODUCT_MODEL := ASUS_X00PD
 
 PRODUCT_GMS_CLIENTID_BASE := android-asus
